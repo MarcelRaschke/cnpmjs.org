@@ -86,4 +86,4 @@ function* sync() {
     fails: worker.fails,
     updates: worker.updates,
   };
-};
+}
