@@ -83,7 +83,7 @@
     "istanbul": "*",
     "jshint": "*",
     "mm": "*",
-    "mocha": "3",
+    "mocha": "6.2.3",
     "node-dev": "*",
     "pedding": "*",
     "pg": "5",
@@ -91,7 +91,7 @@
     "power-assert": "^1.4.2",
     "should": "8",
     "sqlite3": "*",
-    "supertest": "2",
+    "supertest": "3.0.0",
     "thunk-mocha": "1"
   },
   "homepage": "https://github.com/cnpm/cnpmjs.org",
